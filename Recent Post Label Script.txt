@@ -1,0 +1,10 @@
+Tips And Trick Recent Post:
+copy the code below to add the gadget layout and select "HTML / JavaScript" and put the script code below .
+
+
+<script>
+document.write("<script src=\"/feeds/posts/default/-/Awesome?orderby=updated&alt=json-in-script&callback=labelthumbs\"><\/script>");
+</script>
+
+
+for the Red colored code you replace with a link label / category or the name of the label you want. Do You Understand It ? So the result will be as below ..!
